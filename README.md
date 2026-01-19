@@ -1,36 +1,57 @@
 # Bangla Bhojon 🍛
 
-Bangla Bhojon is a Java swing-based desktop restaurant management system designed to manage restaurant operations including orders, billing, and menu management.
+Bangla Bhojon is a Java-based desktop restaurant management system designed to manage restaurant operations including order handling and billing. This project demonstrates a simple real-world desktop application with GUI and workflow management.
+
+---
 
 ## Features
-- User login and authentication
-- Dashboard to view orders and sales
-- Menu management with images of dishes
-- Billing and order processing
+- Admin login and authentication
+- Dashboard to view orders and billing
+- Basic order processing
+
+---
 
 ## Tech Stack
 - Language: Java
 - UI Framework: Java Swing (NetBeans)
-- Database: (SQLite / MySQL)
 - IDE: NetBeans
+
+---
 
 ## Project Structure
 
 ```txt
 Bangla-Bhojon/
 └── src/
-    ├── cafe/                  # All Java code (Login, Dashboard)
-    ├── restaurantmanagementsystem/  # Main Java code
-    ├── images/                # All food images
-    └── docs/                  # Screenshots / future video
+    ├── cafe/                      # Java code (Login, Dashboard)
+    ├── restaurantmanagementsystem/ # Main Java code
+    └── docs/                       # PPT presentation & future screenshots
+        └── BanglaBhojon_Presentation.pptx
 ```
 
+---
+
 ## How to Run
-1. Clone or download the repository
-2. Open the project in NetBeans
-3. Run `RestaurantManagementSystem.java` or `Login.java` to start the app
+1. Clone or download the repository  
+2. Open the project in NetBeans  
+3. Run `Login.java` to start the app  
+
+---
+
+## Presentation
+[View Presentation](src/Bangla-bhojon.pptx)
+
+---
+
+## Video
+[Watch Video](https://youtu.be/WI_cF3jtuqY)
 
 ## Author
-Dipankar Sarkar
+Dipu
 
+---
 
+## Future Improvements
+- Add menu management
+- Integrate database for orders and billing
+- Generate sales reports
