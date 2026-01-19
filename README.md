@@ -16,19 +16,13 @@ Bangla Bhojon is a Java swing-based desktop restaurant management system designe
 
 ## Project Structure
 
-```
+```txt
 Bangla-Bhojon/
-├── src/                  # Source code
-│   ├── cafe/
-│   │   ├── Login.java
-│   │   └── Dashboard.java
-│   └── restaurantmanagementsystem/
-│       └── RestaurantManagementSystem.java
-├── resources/
-│   └── images/            # All dish images
-├── docs/
-│   └── screenshots/       # Screenshots of the app
-└── README.md
+└── src/
+    ├── cafe/                  # All Java code (Login, Dashboard)
+    ├── restaurantmanagementsystem/  # Main Java code
+    ├── images/                # All food images
+    └── docs/                  # Screenshots / future video
 ```
 
 ## How to Run
