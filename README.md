@@ -43,7 +43,7 @@ Bangla-Bhojon/
 
 ---
 
-## Video
+## Workflow
 [Watch Video](https://youtu.be/WI_cF3jtuqY)
 
 ## Author
